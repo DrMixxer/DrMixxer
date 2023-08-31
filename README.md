@@ -30,3 +30,11 @@
 
 **Learning**
 ![flutter-1324440160105193890](https://github.com/DrMixxer/DrMixxer/assets/89403966/4215d372-993d-4611-aa1b-64819954696e)
+
+# Jobs
+
+# Current 
+# None/School
+
+# Previous
+# None/School
