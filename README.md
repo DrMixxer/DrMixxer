@@ -21,7 +21,8 @@
 # Tools & Frameworks
 
 **Mastery**
-![react js, react, logo, js icon icon](https://github.com/DrMixxer/DrMixxer/assets/89403966/09fd0431-31a1-4d41-98ff-ecad8ab7c072)
+![react js, react, logo, js icon icon (1)](https://github.com/DrMixxer/DrMixxer/assets/89403966/3f5a4a35-be23-43a6-9ea8-1077b5c47037)
+
 
 
 **Learning**
