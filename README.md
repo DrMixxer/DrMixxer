@@ -21,7 +21,8 @@
 # Tools & Frameworks
 
 **Mastery**
-![1174949_js_react js_logo_react_react native_icon](https://github.com/DrMixxer/DrMixxer/assets/89403966/bfef6c55-4bcd-4219-b584-d491deb796e9)![file+sql+icon-1320183612970878250](https://github.com/DrMixxer/DrMixxer/assets/89403966/1059812f-887b-4f6c-945b-17b6369e1f2a)![mysql-1324440201945340860](https://github.com/DrMixxer/DrMixxer/assets/89403966/a8f2bfc8-a231-405c-b127-0d423adf5982).
+![react js, react, logo, js icon icon](https://github.com/DrMixxer/DrMixxer/assets/89403966/09fd0431-31a1-4d41-98ff-ecad8ab7c072)
+
 
 **Learning**
 ![flutter-1324440160105193890](https://github.com/DrMixxer/DrMixxer/assets/89403966/4215d372-993d-4611-aa1b-64819954696e).
