@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=angular,aws,discord,django,docker,electron,nextjs)](https://skillicons.dev)
 
 ## Learning
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,flask,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,flask,vite,java,kotlin)](https://skillicons.dev)
 
 
 
