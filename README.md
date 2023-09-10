@@ -7,7 +7,6 @@
 
 ## 💸 Languages && Frameworks - 
 
-### Mastered: [![My Skills](https://skillicons.dev/icons?i=js,html,css, ts, py, react)](https://skillicons.dev)
-
+### Mastered:[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
