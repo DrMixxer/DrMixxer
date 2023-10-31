@@ -11,7 +11,7 @@
 ## 💸 Languages && Frameworks - 
 
 ### Mastered:
-[![My Skills](https://skillicons.dev/icons?i=bash,cassandra,html,css,git,gradle,maven,js,mongodb,express,react,nodejs,py,tailwind,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,cassandra,html,css,git,gradle,maven,js,mongodb,express,react,nodejs,py,tailwind,ts,vue)](https://skillicons.dev)
 
 ### Good/Decent: 
 [![My Skills](https://skillicons.dev/icons?i=angular,aws,discord,django,docker,electron,nextjs)](https://skillicons.dev)
