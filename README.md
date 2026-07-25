@@ -21,10 +21,10 @@ Building developer tools, desktop software, and real-time applications with a fo
 
 ---
 
-## ⚡ Radiocord
-*A high-performance Discord wrapper for Radio FM.*
+## ⚡ Helix
+*A high-performeance, tiny os.*
 
-[![Discord.z](https://github-stats-extended.vercel.app/api/pin?username=J4Edev&repo=Radiocord&theme=dracula)](https://github.com/J4Edev/Discord.z)
+[![Helix](https://github-stats-extended.vercel.app/api/pin?username=J4Edev&repo=helix&theme=dracula)](https://github.com/J4Edev/Discord.z)
 
 ---
 
@@ -147,7 +147,7 @@ Currently focused on growing these flagship projects:
 | Project | Focus |
 |---------|-------|
 | 🎵 **Radio FM** | Collaborative listening platform |
-| ⚡ **RadioCord** | High-performance Discord SDK for Radio FM |
+| ⚡ **Helix** | High-performance OS |
 | 🖥️ **MWF** | Windows provisioning & optimization |
 | 🕸️ **Hasty** | Modern high-performance scraping toolkit |
 | ✍️ **EDIT** | Modern Markdown & text editor |
