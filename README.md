@@ -22,7 +22,7 @@ Building developer tools, desktop software, and real-time applications with a fo
 ---
 
 ## ⚡ Helix
-*A high-performeance, tiny os.*
+*A high-performance, open-source, privacy-first os.*
 
 [![Helix](https://github-stats-extended.vercel.app/api/pin?username=J4Edev&repo=helix&theme=dracula)](https://github.com/J4Edev/helix)
 
